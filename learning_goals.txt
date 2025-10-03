@@ -1,0 +1,5 @@
+### Personal learning goals:
+
+1. To be able to master API creation.
+2. To be able to master Git basics.
+3. Overall to be able to master Backend.
